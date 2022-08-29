@@ -1,6 +1,0 @@
-/* settings */
-*{ margin:0; padding:0; list-style: none; text-decoration: none; box-sizing: border-box; color:inherit; border-collapse: collapse;}
-body{ height: 100vh; display: flex; justify-content: center; align-items: center; }
-.Tetris{ display: table; width: 400px; height: 800px; border:3px solid black; table-layout: fixed;}
-.Tetris .row{ display: table-row; height: 39px; }
-.Tetris .row .cell{ display: table-cell; border:1px solid lightgray; vertical-align: middle; text-align: center;}
